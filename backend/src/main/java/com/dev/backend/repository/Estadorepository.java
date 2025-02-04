@@ -5,5 +5,5 @@ import com.dev.backend.entity.Estado;
 
 public interface Estadorepository extends JpaRepository<Estado, Long>{
     
-    
 }
+
